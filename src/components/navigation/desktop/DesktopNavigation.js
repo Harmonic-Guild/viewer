@@ -15,7 +15,7 @@ const StyledNavigation = styled.div`
   left: 0;
   right: 0;
   width: 100%;
-  background-color: var(--slate-dark-1);
+  background-color: white;
   z-index: 1000;
   padding: 12px 0;
 
@@ -68,8 +68,8 @@ export function DesktopNavigation(props) {
           <Logotype />
         </Link>
         <div className="navigation-section">
-          <NavigationButton route="/">Home</NavigationButton>
-          <NavigationButton href="https://harmonicguild.io">About Us</NavigationButton>
+          {/* <NavigationButton route="/">Home</NavigationButton>
+          <NavigationButton href="https://harmonicguild.io">About Us</NavigationButton> */}
           {/* <NavigationButton href={props.documentationHref}>
             Docs
             <ArrowUpRight />

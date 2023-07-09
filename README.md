@@ -81,4 +81,6 @@ return (
   </div>
 );
 
+"near-social-vm": "file:../../bos/VM/VM/near-social-vm-v2.2.3.tgz",
+
 ```

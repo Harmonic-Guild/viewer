@@ -6,5 +6,6 @@ export function SignInButton(props) {
     <GrayBorderButton className="nav-sign-in-btn" onClick={props.onSignIn}>
       Sign In
     </GrayBorderButton>
+    
   );
 }

@@ -194,6 +194,9 @@ function App(props) {
           </Switch>
         </Router>
       </EthersProviderContext.Provider>
+      <div style={{ textAlign: 'center', margin: '1.5rem' }}>
+      <footer style={{ fontWeight: 'bold' }}>All Rights Reserved @Harmonic Guild</footer>
+    </div>
     </div>
   );
 }
