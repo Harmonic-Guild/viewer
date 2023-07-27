@@ -194,13 +194,13 @@ function App(props) {
           </Switch>
         </Router>
       </EthersProviderContext.Provider>
-      <div style={{ 
+      {/* <div style={{ 
         textAlign: 'center', 
         margin: '', 
         padding: '1rem',
         backgroundImage: "linear-gradient(to right, #b6fbff, #83a4d4)" }}>
       <footer style={{ fontWeight: 'bold' }}>All Rights Reserved @Harmonic Guild</footer>
-    </div>
+    </div> */}
     </div>
   );
 }

@@ -16,7 +16,7 @@ const StyledNavigation = styled.div`
   right: 0;
   width: 100%;
   //background-color: black;
-  background-image: linear-gradient(to right, #b6fbff, #83a4d4);
+  //background-image: linear-gradient(to right, #b6fbff, #83a4d4);
   z-index: 1000;
   padding: 12px 0;
 
